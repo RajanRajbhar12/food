@@ -1,0 +1,20 @@
+# Ignore environment files
+.env
+*.env
+
+# Ignore sensitive keys
+SPOONACULAR_API_KEY
+
+# Ignore Node modules (if you're using Node.js)
+node_modules/
+
+# Ignore build files
+dist/
+build/
+
+# Ignore log files
+npm-debug.log
+yarn-error.log
+
+# Ignore OS-generated files
+.DS_Store
